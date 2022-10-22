@@ -1,2 +1,2 @@
 # JAVA
-simple and efficient program to find the weekday when you enter number from 1 to 7
+HERE there are some simple and efficient beginner level JAVA programs to solve some problems
