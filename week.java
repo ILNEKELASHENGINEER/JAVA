@@ -1,19 +1,20 @@
 import java.util.*;
+import java.util.*;
 class main{
     public static void main(String []args){
        Scanner in = new Scanner(System.in);
-       int a;
-       a=in.nextInt();
+       int b;
+       b=in.nextInt();
        //if(a>7){System.out.println("Invalid");}
-       hello v = new hello(a);
+       hello v = new hello(b);
         
     }
 }
 class hello{
-    int a;
-    hello(int a){
+    int b;
+    hello(int b){
         //if(a>)
-        switch(a){
+        switch(b){
         case 0:
             System.out.println("Weekend");
             break;
