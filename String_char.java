@@ -19,3 +19,9 @@ public class String_char {
         }
     }
 }
+/*
+INPUT AND OUTPUT
+Enter the string : hello man
+Enter the char/element to search in given string : n
+The element is present @ 9
+*/
