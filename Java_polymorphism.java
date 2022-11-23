@@ -24,7 +24,7 @@ s.draw();
 }  
 /*
 OUTPUT
-SBI Rate of Interest: 8.4
-ICICI Rate of Interest: 7.3
-AXIS Rate of Interest: 9.7
+drawing rectangle...
+drawing circle...
+drawing triangle...
 */
