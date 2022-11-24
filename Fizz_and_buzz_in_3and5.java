@@ -10,7 +10,7 @@ class main{
             arr[i]=in.nextInt();
         }
         for(int i=0;i<a;i++){
-            if(arr[i]%b==0&& arr[i]%c == 0){
+            if(arr[i]%b==0 && arr[i]%c == 0){
                 System.out.print("FizzBuzz ");
             }
             else if(arr[i]%c == 0){
